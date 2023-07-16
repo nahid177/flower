@@ -1,0 +1,58 @@
+nav{
+    display: flex;
+  
+    background-color: lightgray;
+    
+    padding: 1920*850;
+}
+.nav-div{
+    margin: 200px 200px;
+}
+.nav-title{
+    width: 708px;
+    height: 230px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+   
+    
+}
+.nav-title1{
+    width: 634px;
+    height: 90px;
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+.nav-shop{
+    justify-content: center;
+line-height: 1.2;
+white-space: nowrap;
+width: 17.7rem;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+align-items: center;
+background-color: #e55473;
+border-radius: 0.8rem;
+color: #ffffff;
+display: flex;
+flex-shrink: 0;
+font-family: Lato, 'Source Sans Pro';
+font-size: 2rem;
+font-weight: 700;
+height: 6.4rem;
+}
+.nav-pic{
+    width: 635px;
+    height: 800px;
+    flex-shrink: 0; 
+    background: url(Flower\ Asset/.nav-pic), lightgray 50% / cover no-repeat;
+}
