@@ -273,4 +273,65 @@ font-style: normal;
 font-weight: 600;
 line-height: 35px; /* 145.833% */
 }
-                    
+         
+
+
+
+.main-section3{
+    
+    display: flex;
+    width: 1922px;
+height: 620px;
+flex-shrink: 0;
+border-radius: 20px;
+background: rgba(229, 84, 115, 0.05);
+padding: 7%;
+}
+.main-div-section3{
+    
+    margin: 200px 200px;
+}
+.main-div-section3-title{
+      
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.main-div-section3-title1{
+width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+
+.main-div-section3-shop{
+    padding-left: 10%;
+    color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+}
+
+.main-div-section3-pic{
+    margin: 200px 200px;
+   
+    width: 318px;
+height: 420px;
+flex-shrink: 0;
+}
