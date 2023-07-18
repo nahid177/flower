@@ -52,8 +52,8 @@ font-weight: 700;
 height: 6.4rem;
 }
 .nav-pic{
-    margin: 200px 200px;
-    width: 635px;
+    margin: 100px 100px;
+    width: 735px;
     height: 800px;
     flex-shrink: 0; 
     background: url(Flower\ Asset/.nav-pic), lightgray 50% / cover no-repeat;
@@ -395,7 +395,7 @@ background: url("Flower Asset/Rectangle\ 9.png"), lightgray 0px -203.444px / 100
 
 
 .main-section5-title1{
-   
+   padding: 2%;
     color: #272727;
 text-align: center;
 font-family: Lato;
@@ -435,13 +435,7 @@ height: 64px;
 flex-shrink: 0;
 border-radius: 8px;
 background: #E55473;
-color: rgba(39, 39, 39, 0.60);
-text-align: center;
-font-family: Lato;
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
+
 
 }
 .main-section5-buttom{
@@ -461,3 +455,52 @@ line-height: normal;
     margin: 20px 220px;
 }
 
+
+
+/* footer section start */
+
+
+.footer{
+   
+    width: 3022px;
+height: 449px;
+flex-shrink: 0;
+background: #111010;
+}
+
+.footer-t1{
+    padding: 2%;
+    text-align: center;
+    color: #E55473;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.footer-shop{
+    color: #FFF;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.footer-t2{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+.footer-t3{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
