@@ -278,7 +278,7 @@ line-height: 35px; /* 145.833% */
 
 
 .main-section3{
-    
+    margin-top: 100px;
     display: flex;
     width: 1922px;
 height: 620px;
@@ -290,6 +290,7 @@ padding: 7%;
 .main-div-section3{
     
     margin: 200px 200px;
+    
 }
 .main-div-section3-title{
       
@@ -341,6 +342,7 @@ flex-shrink: 0;
 
 } */
 .main-section4-title1{
+    margin-top: 100px;
     color: #272727;
 text-align: center;
 font-family: Lato;
@@ -381,3 +383,81 @@ line-height: 30px; /* 166.667% */
     height: 396px;
     flex-shrink: 0;
 }
+
+.main-section5{
+    margin-top: 100px;
+    width: 1440px;
+height: 449px;
+flex-shrink: 0;
+border-radius: 8px;
+background: url("Flower Asset/Rectangle\ 9.png"), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+}
+
+
+.main-section5-title1{
+   
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.main-section5-title2{
+    
+   
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+
+}
+
+.main-section5-back{
+    
+    width: 700px;
+height: 64px;
+
+flex-shrink: 0;
+border-radius: 8px;
+background: #FFF;
+
+}
+
+.main-section5-b-back{
+  
+height: 64px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #E55473;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.main-section5-buttom{
+    width: 88px;
+height: 27.429px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.main-section5-div{
+    display: flex;
+    margin: 20px 220px;
+}
+
